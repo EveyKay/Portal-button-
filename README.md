@@ -1,7 +1,14 @@
 # Portal-button-
+## Features 
+- it looks like a portal button
+- it has a really good sounding clip
+- relatively  really cheap to build
+- launches portal (or any other game) when pressed 
 ## How to build it 
 #### steps to 3d print 
 the building part is pretty easy. First print the pieces, I kept all the setting the same as the base setting is Bambu lab except I enabled the supports. I included to different types of files for the printed piece, one colored version if you have ams and one un-colored one that you can just paint for you you don't have ams. If you are using ams it will require black, gray, white, and red filament, but I highly suggest to print the top of the button separate from the base. 
+<img width="3000" height="4000" alt="20261108_085540" src="https://github.com/user-attachments/assets/9d844830-3397-4ba0-8e21-6e1681c7d0a4" />
+
 #### steps to put it together 
 1. solder 6-ish inch lengths of wire to the bottom of the button where the little metal pieces come out (the wire is only so long to make it easy to solder) 
 2. put the button through the hole in the top of the base, then pull the wires out of the side
@@ -11,4 +18,14 @@ the building part is pretty easy. First print the pieces, I kept all the setting
 <img width="425" height="405" alt="71a5ZhvpvpL _AC_SX425_" src="https://github.com/user-attachments/assets/6a488c9e-5506-475d-8209-d043c2c89e18" />
 
 ## How to set this up on your computer 
-The portal button not only requires you to put the code into the raspberry pi pico, but you also have to set it up right on your desktop. First of all, you will need steam, you can set it up to any steam game, but its a button from portal, so it would be weird if you set it to open a game other than portal or portal 2. first log into steam and go to the game that you would like to set it up to open and press the "Manage" button and then press "add to desktop" from the list of options, this will make a desktop shortcut for the game that you want to open. Next, right clip the new shortcut on your desktop and press "Properties". Next go to the short cut tab and click on the Shortcut key field. Then set the short cut to Control+Shift+P+L, and lastly press apply and ok. Basically, what this did was make it so when you press the buttons, control, shift, P, and L, the game will launch, and the code in the physical button is coded to press that series of buttons when it is pressed. 
+The portal button not only requires you to put the code into the raspberry pi pico, but you also have to set it up right on your desktop. First of all, you will need steam, you can set it up to any steam game, but its a button from portal, so it would be weird if you set it to open a game other than portal or portal 2. first log into steam and go to the game that you would like to set it up to open and press the "Manage" button and then press "add to desktop" from the list of options, this will make a desktop shortcut for the game that you want to open. Next, right clip the new shortcut on your desktop and press "Properties". Next go to the short cut tab and click on the Shortcut key field. Then set the short cut to Control+Shift+alt+p, and lastly press apply and ok. Basically, what this did was make it so when you press the buttons, control, shift, P, and L, the game will launch, and the code in the physical button is coded to press that series of buttons when it is pressed. 
+
+## Bill of Materials
+
+| Item | Qty | Supplier | Cost/item | Total Cost | Link |
+|------|-----|----------|-----------|------------|------|
+| Raspberry Pi Pico | 1 | Keyestudio | $9.95 | $9.95 | [Link](https://www.amazon.com/dp/B0861WJ2DD) |
+| Keyboard clicky button | 1 | Firstop | $0.10 | $0.10 | [Link](https://www.amazon.com/dp/B0GX1XNZKB) |
+| 3D printed parts | 1 | Bambu | $3.60 | $3.60 | [Link](https://us.store.bambulab.com/products/pla-basic-filament?id=40475106640008) |
+| Estimated total shipping | 1 | | | $0.00 | |
+| **Total** | | | | **$13.65** | |
