@@ -56,3 +56,15 @@ The session is kind of a bunch of days put together, first of all, I made the po
 ![11837](https://halflife.hackclub-assets.com/sessions/8PxktBTCGe7mPs4dSn1M9C3sxWoVNpfI/e0f0b46fe8ccc6d7cce2dd775d8a8ca313f7739f416c5b314d0302dfe8a28aaf.jpg)
 
 ![11838](https://halflife.hackclub-assets.com/sessions/8PxktBTCGe7mPs4dSn1M9C3sxWoVNpfI/f282a04b838ccb88c80d37efe59cdba0ddf2af52bb18f13d1ee7c921f25b595a.jpg)
+
+
+# Commits history 
+## November 5
+- created repostory
+- uploaded code
+- wrote most of read me
+## November 8 
+- add 3d files
+- finshed read me
+- added bom
+- updated journal 
