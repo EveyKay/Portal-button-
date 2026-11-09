@@ -3,10 +3,13 @@
 - it looks like a portal button
 - it has a really good sounding clip
 - relatively  really cheap to build
-- launches portal (or any other game) when pressed 
+- launches portal (or any other game) when pressed
+  <img width="3000" height="4000" alt="20261108_084812" src="https://github.com/user-attachments/assets/bf2a8793-c412-4af0-b1f9-97bac2b95dcc" />
+
 ## How to build it 
 #### steps to 3d print 
 the building part is pretty easy. First print the pieces, I kept all the setting the same as the base setting is Bambu lab except I enabled the supports. I included to different types of files for the printed piece, one colored version if you have ams and one un-colored one that you can just paint for you you don't have ams. If you are using ams it will require black, gray, white, and red filament, but I highly suggest to print the top of the button separate from the base. 
+- link to onshape: https://cad.onshape.com/documents/c7b767caab30528af0952514/w/74e2cae049efc825acc8b823/e/92704183d3b995a730dc8882?resourceType=resourceuserowner&nodeId=5e6eb0f52788881004de0de0&renderMode=0&uiState=6af1260c2f641d2da0fd796b
 <img width="3000" height="4000" alt="20261108_085540" src="https://github.com/user-attachments/assets/9d844830-3397-4ba0-8e21-6e1681c7d0a4" />
 
 #### steps to put it together 
@@ -14,7 +17,7 @@ the building part is pretty easy. First print the pieces, I kept all the setting
 2. put the button through the hole in the top of the base, then pull the wires out of the side
 3. connect or solder one wire to pin 5 and one wire to pin 3 of your Raspberry pi pico, it doesn't matter which is which. (see picture bellow)
 4. stick the pico into the box and push it so the micro USB of the pico is sticking out the little hole on the side of the box, gule it if you want.
-5. close the box up and upload the code to your computer.
+5. close the box up and upload the code from your computer to the pico.
 <img width="425" height="405" alt="71a5ZhvpvpL _AC_SX425_" src="https://github.com/user-attachments/assets/6a488c9e-5506-475d-8209-d043c2c89e18" />
 
 ## How to set this up on your computer 
